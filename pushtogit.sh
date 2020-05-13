@@ -1,4 +1,4 @@
-cd C:\Users\drewm\Desktop\Vew
+cd C:\Users\drewm\Desktop\Vew\Art\AllArt
 git checkout master
 git add .
 git commit -am "made changes"
