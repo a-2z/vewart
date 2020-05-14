@@ -1,3 +1,3 @@
 git add .
 git commit -am "made changes"
-git push art --all
+git push art --all --force
